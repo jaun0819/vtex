@@ -1,0 +1,15 @@
+.paginationDotsContainer--home__slider{
+    transform: translateY(50px);
+    color: gray;
+}
+.sliderLayoutContainer--home__slider{
+    max-width: 3000px;
+    /* margin: 0 auto 50px; */
+    
+}
+/* .paginationDotsContainer--home_slider{
+    transform: translateY(30px);
+}
+.sliderLayoutContainer--home_slider{
+    max-height:auto !important
+} */

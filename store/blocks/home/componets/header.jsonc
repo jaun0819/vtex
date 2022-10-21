@@ -1,0 +1,9 @@
+{
+    "logo#header__top--logo":{
+        "title":"logo",
+        "props":{
+            "url":"assets/img/falabella.png",
+            "widrh":150
+        }
+    }
+}

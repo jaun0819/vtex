@@ -1,0 +1,11 @@
+{
+    "image#home__descuento":{
+        "title":"descuento",
+        "props":{
+            "href": "/",
+            "src":"assets/img/imagen_descuento.png",
+            "blockClass":"descuento--tittle"
+            
+        }
+    }
+}

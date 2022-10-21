@@ -1,0 +1,7 @@
+{
+    "store.custom#home-test": {
+        "blocks": [
+            "flex-layout.row#home__section--one"
+          ]
+     }
+   }

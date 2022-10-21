@@ -1,0 +1,11 @@
+{
+    "responsive-layout.desktop":{
+        "children":[
+            "image#home__envios",
+            "slider-layout#home__slider--children",
+            "image#home__descuento"
+           
+
+        ]
+}
+}

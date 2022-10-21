@@ -1,0 +1,28 @@
+{
+  "store.home": { 
+    "blocks": [
+     
+      /* ,
+      , */
+      /*  "flex-layout.row#home__section-two" */
+     "responsive-layout.phone#home_info--phone",
+      "responsive-layout.mobile",
+      "responsive-layout.tablet#home_info--tablet",
+      "responsive-layout.desktop"
+     /*  "modal-trigger#home_modal--children",
+      "modal-trigger#home_modal--event" */
+      
+    ]
+  },
+  
+  
+  "rich-text": { 
+    "props": { 
+      "text": "VTEX Store Framework",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+  
+}

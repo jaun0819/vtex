@@ -1,0 +1,46 @@
+{
+    "responsive-layout.phone#home_info--phone": {
+        "title":"Componente Teléfono",
+        "children": [
+          "rich-text#home_info--phone"
+        ]
+      },
+      "responsive-layout.mobile#home_info--mobile": {
+        "title":"Componente Móvil",
+        "children": [
+          "rich-text#home_info--mobile"
+        ]
+      },
+      "responsive-layout.tablet#home_info--tablet": {
+        "title":"Componente Tablet",
+        "children": [
+          "rich-text#home_info--tablet"
+        ]
+      },
+      "responsive-layout.desktop#home_info--desktop": {
+        "title":"Componente Escritorio",
+        "children": [
+          "rich-text#home_info--desktop"
+        ]
+      },
+      "rich-text#home_info--phone":{
+        "props":{
+          "text":"# Resolución de Teléfono "
+        }
+      },
+      "rich-text#home_info--mobile":{
+        "props":{
+          "text":"# Resolución Móvil"
+        }
+      },
+      "rich-text#home_info--tablet":{
+        "props":{
+          "text":"# Resolución de Tablet "
+        }
+      },
+      "rich-text#home_info--desktop":{
+        "props":{
+          "text":"# Resolución de  Escritorio"
+        }
+      }
+}

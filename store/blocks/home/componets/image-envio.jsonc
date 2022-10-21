@@ -1,0 +1,11 @@
+{
+    "image#home__envios":{
+        "title":"envio",
+        "props":{
+            "href": "/",
+            "src":"assets/img/header.png",
+            "blockClass":"envios--tittle"
+            
+        }
+    }
+}
